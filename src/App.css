@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  height: 100vh;
+}
+
+.leaflet-container {
+  height: 100vh;
+}
+
+.cluster-icon {
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+  background-color: #fff;
+  transform: translate(-25%, -25%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.reset-zoom-btn {
+  position: absolute;
+  top: 80px;
+  left: 11px;
+  z-index: 10000;
+}
+
+.map-wrapper {
+  position: relative;
+}
