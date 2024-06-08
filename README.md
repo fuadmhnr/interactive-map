@@ -8,5 +8,5 @@ This project using mock data only and for the tech stack, it's using:
 * React + Typescript SWC (Template by Vite) 🚀
 * Leaflet JS 🗺️
 
-## Installation
-Just clone this repo, then install all depedencies with `npm install` and then just run by `npm run dev` and boom 💥 the application is open on your lovely browser
+## ⚙️ Installation
+Just clone this repo, then install all depedencies with `npm install` and then just run by `npm run dev` and boom 💥 the application is open on your lovely browser.
